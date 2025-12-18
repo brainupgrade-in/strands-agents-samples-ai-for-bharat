@@ -133,7 +133,7 @@ Callback handlers receive events for:
 
 Here's what the lab looks like in action:
 
-![Lab 5 Output - Advanced Processing Agent Response](workshop-4-lab-5.png)
+![Lab 5 Output - Advanced Processing Agent Response](https://github.com/brainupgrade-in/strands-agents-samples-ai-for-bharat/blob/b6709fe020272e8ffbd3ad21b94b4ca6d3115a2f/workshop-4-lab-5.png?raw=true)
 
 The screenshot demonstrates:
 1. The calculator tool being invoked
